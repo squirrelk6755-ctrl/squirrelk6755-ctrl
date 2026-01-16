@@ -17,7 +17,6 @@ Frontend projects and open-source contributions using HTML, CSS, JavaScript, and
 🌱 **Currently learning:**  
 React, Tailwind CSS, Git & GitHub, and backend fundamentals
 
-
 <img
   align="right"
   height="260"
@@ -26,6 +25,7 @@ React, Tailwind CSS, Git & GitHub, and backend fundamentals
   style="border-radius:50%;"
 />
 <br/>
+
 👯 **Looking to collaborate on:**  
 Frontend development projects, beginner-friendly open source, and small full-stack features  
 
