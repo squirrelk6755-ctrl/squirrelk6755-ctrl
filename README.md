@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FF79C6&center=true&vCenter=true&width=580&lines=Hi%2C+I%27m+Muskan;Aspiring+Full-Stack+Developer;Web+Developer"
     alt="Typing SVG"
   />
-  <span style="font-size:32px;"></span>
+  <span style="font-size:50px;"></span>
 </h1>
 
 
