@@ -7,12 +7,6 @@
 </h1>
 
 
-
-<img align="right" height="240" width="380"
-src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/anime-coding.gif" />
-
-
-
 A passionate **Full-Stack Developer** from India, focused on building responsive, accessible, and visually appealing web applications.
 
 🔭 **Currently working on:**  
