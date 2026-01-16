@@ -26,7 +26,6 @@ React, Tailwind CSS, Git & GitHub, and backend fundamentals
   style="border-radius:50%;"
 />
 <br/>
-
 👯 **Looking to collaborate on:**  
 Frontend development projects, beginner-friendly open source, and small full-stack features  
 
