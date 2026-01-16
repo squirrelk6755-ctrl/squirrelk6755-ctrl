@@ -22,6 +22,15 @@ Frontend projects and open-source contributions using HTML, CSS, JavaScript, and
 🌱 **Currently learning:**  
 React, Tailwind CSS, Git & GitHub  
 
+<img
+  align="right"
+  height="260"
+  width="260"
+  src="https://raw.githubusercontent.com/squirrelk6755-ctrl/squirrelk6755-ctrl/main/cat-code gif.gif"
+  style="border-radius:50%;"
+/>
+
+
 👯 **Looking to collaborate on:**  
 Frontend development projects and beginner-friendly open source  
 
