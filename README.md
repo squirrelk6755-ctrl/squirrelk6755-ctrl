@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muskan👋;Aspiring Full-Stack Developer" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FF79C6&center=true&vCenter=true&width=580&lines=Hi%2C+I%27m+Muskan;Aspiring+Full-Stack+Developer;Web+Developer"
+    alt="Typing SVG"
+  />
+  <span style="font-size:32px;"></span>
 </h1>
+
 
 
 <img align="right" height="240" width="380"
@@ -46,12 +51,6 @@ I believe consistency beats talent in tech 🚀
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=squirrelk6755-ctrl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=squirrelk6755-ctrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 # 📊 GitHub Stats:
