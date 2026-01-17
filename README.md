@@ -1,14 +1,24 @@
+<div align="center">
+  <img 
+    src="https://github.com/squirrelk6755-ctrl/squirrelk6755-ctrl/blob/main/banner.png?raw=true"
+    alt="Muskan GitHub Banner"
+    width="100%"
+    style="border-radius:10px;"
+  />
+</div>
+
+<br/>
+
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FF79C6&center=true&vCenter=true&width=580&lines=Hi%2C+I%27m+Muskan;Aspiring+Full-Stack+Developer;Web+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FF79C6&center=true&vCenter=true&width=580&lines=👋Hi+there!"
     alt="Typing SVG"
   />
-  <span style="font-size:50px;"></span>
 </h1>
 
 
-A passionate **Aspiring Full-Stack Developer** from India, focused on building responsive, accessible, and visually appealing web applications, with hands-on experience in frontend development and basic backend integration.
 
+A passionate **Aspiring Full-Stack Developer** from India, focused on building responsive, accessible, and visually appealing web applications, with strong frontend skills and growing experience in backend integration.
 
 🔭 **Currently working on:**  
 Frontend projects and open-source contributions using HTML, CSS, JavaScript, and React, while exploring basic backend development
