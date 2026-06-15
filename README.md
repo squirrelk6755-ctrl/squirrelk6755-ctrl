@@ -18,7 +18,7 @@
 
 
 
-CS Engineering student (AI & ML) at SRMIST | Researching No-Reference Image Quality Assessment & Medical AI | ResNet · EfficientNet · DenseNet | Deployed on Hugging Face | ECWoC'26 Rank 38 | 1st Place Ideathon, IIITDM Kancheepuram
+CS Engineering student (AI & ML) at SRMIST | ResNet · EfficientNet · DenseNet | Deployed on Hugging Face | ECWoC'26 Rank 38 | 1st Place Ideathon, IIITDM Kancheepuram
 
 🔭 **Currently working on:**  
 Frontend projects and open-source contributions using HTML, CSS, JavaScript, and React, while exploring basic backend development
