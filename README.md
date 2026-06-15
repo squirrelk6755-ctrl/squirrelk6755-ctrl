@@ -16,8 +16,6 @@
   />
 </h1>
 
-
-
 CS Engineering student (AI & ML) at SRMIST | ResNet · EfficientNet · DenseNet | Deployed on Hugging Face | ECWoC'26 Rank 38 | 1st Place Ideathon, IIITDM Kancheepuram
 
 🔭 **Currently working on:**  
