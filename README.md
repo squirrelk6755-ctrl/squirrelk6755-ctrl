@@ -21,11 +21,8 @@
 CS Engineering student (AI & ML) at SRMIST | ResNet · EfficientNet · DenseNet | Deployed on Hugging Face | ECWoC'26 Rank 38 | 1st Place Ideathon, IIITDM Kancheepuram
 
 🔭 **Currently working on:**  
-Frontend projects and open-source contributions using HTML, CSS, JavaScript, and React, while exploring basic backend development
+open-source contributions while exploring the AI and ML fundamentals
 
-
-🌱 **Currently learning:**  
-React, Tailwind CSS, Git & GitHub, and backend fundamentals
 
 <img
   align="right"
@@ -35,12 +32,6 @@ React, Tailwind CSS, Git & GitHub, and backend fundamentals
   style="border-radius:50%;"
 />
 <br/>
-
-👯 **Looking to collaborate on:**  
-Frontend development projects, beginner-friendly open source, and small full-stack features  
-
-🤔 **Looking for help with:**  
-Best practices in frontend architecture, UI design, and understanding backend integration  
 
 💬 **Ask me about:**  
 Web development, GitHub, and project planning  
