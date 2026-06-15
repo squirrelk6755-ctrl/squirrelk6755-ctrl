@@ -30,7 +30,6 @@ open-source contributions while exploring the AI and ML fundamentals
   style="border-radius:50%;"
 />
 <br/>
-
 💬 **Ask me about:**  
 Web development, GitHub, and project planning  
 
